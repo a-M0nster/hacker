@@ -25,7 +25,7 @@ url = "http://www.xicidaili.com/nn/"
 #url = "http://www.xicidaili.com/nt/"
 #国外高匿
 #url = "http://www.xicidaili.com/wn/"
-#国外透明 
+#国外透明
 #url = "http://www.xicidaili.com/wt/"
 
 #获取单个网页的内容
